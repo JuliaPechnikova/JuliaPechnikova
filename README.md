@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <a href="https://github-readme-stats.vercel.app/api?username=JuliaPechnikova&show_icons=true&theme=react">
     <img src="https://github-readme-stats.vercel.app/api?username=JuliaPechnikova&show_icons=true&theme=react" align="left" height="140">
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPechnikova&layout=compact&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPechnikova&layout=compact&theme=dark" align="left" height="140">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPechnikova&layout=compact&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPechnikova&layout=compact&theme=react" align="left" height="140">
   </a>
 </div>
