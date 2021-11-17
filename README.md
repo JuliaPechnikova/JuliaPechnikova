@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Julia, a junior Web Developer.  
+# I'm Julia, a junior Web Developer.  
 
 👩‍🎓 currently studying at [Yandex Practicum](https://practicum.yandex.ru/profile/web/)  
 ❤️ searching for a lovely job connected with lovely web  
