@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👩‍🎓 currently studying at [Yandex Practicum](https://practicum.yandex.ru/profile/web/)  
 ❤️ searching for a lovely job connected with lovely web  
-📫 will be happy to get message in [telegram](https://practicum.yandex.ru/profile/web/)   
+📫 will be happy to get message in [telegram](t.me/julpe4)   
 
 ### My stack:
 <div>
