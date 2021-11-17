@@ -22,7 +22,14 @@ Here are some ideas to get you started:
 📫 will be happy to get message in [telegram](https://practicum.yandex.ru/profile/web/)   
 
 ### My stack:
-
+<div>
+    <img src="./HTML5.png" height="38">
+    <img src="./CSS3.png" height="38">
+    <img src="./JS.png" height="38">
+    <img src="./react.png" height="38">
+    <img src="./VScode.png" height="38">
+    <img src="./git.png" height="38">
+    <img src="./bash.png" height="38">
 
 ### My statistics:
 <div>
