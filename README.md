@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm Julia, a junior Web Developer.  
 
-👩‍🎓 currently studying at [Yandex Practicum](https://practicum.yandex.ru/profile/web/) 
+👩‍🎓 currently studying at [Yandex Practicum](https://practicum.yandex.ru/profile/web/)  
 ❤️ searching for a lovely job connected with lovely web  
 📫 will be happy to get message in [telegram](https://practicum.yandex.ru/profile/web/)   
 
